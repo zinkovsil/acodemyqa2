@@ -67,11 +67,11 @@ public class HomeWork {
         System.out.println(d%b);
 
         String city = "Riga";
-        String statuss = "is";
+        String status = "is";
         String country = "a";
         String location = "capital";
         String continent = "city";
-        System.out.println(city + statuss + country + location + continent);
+        System.out.println(city +" "+ status +" "+ country +" "+ location +" "+ continent);
 
 
 
