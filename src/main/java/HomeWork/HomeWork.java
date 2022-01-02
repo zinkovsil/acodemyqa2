@@ -50,14 +50,28 @@ public class HomeWork {
         boolean latviaIsACountry = true;
         System.out.println(latviaIsACountry);
 
+        double a = 5;
+        double b = 2+8;
+        double d = 15/3;
+        System.out.println(a+b);
+        System.out.println(a+d);
+        System.out.println(a-b);
+        System.out.println(b-d);
+        System.out.println(a*b);
+        System.out.println(b*d);
+        System.out.println(a/d);
+        System.out.println(b/d);
+        System.out.println(d/b);
+        System.out.println((a+b)/d);
+        System.out.println(a%b);
+        System.out.println(d%b);
 
-
-
-
-
-
-
-        
+        String city = "Riga";
+        String statuss = "is";
+        String country = "a";
+        String location = "capital";
+        String continent = "city";
+        System.out.println(city + statuss + country + location + continent);
 
 
 
