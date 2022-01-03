@@ -29,6 +29,22 @@ public class HomeWork {
         System.out.println(Short.MIN_VALUE);
         System.out.println(Short.MAX_VALUE);
 
+        short lowestShortNumber = - 32768;
+        System.out.println(lowestShortNumber);
+
+        short VaticanPopulation = 836;
+        System.out.println(VaticanPopulation);
+
+        short RezeknePopulation = 27820;
+        System.out.println(RezeknePopulation);
+
+        short MichaelJordanTotalNBAPoints = 32292;
+        System.out.println(MichaelJordanTotalNBAPoints);
+
+
+
+
+
         byte membersOfLatvianParlament = 100;
         System.out.println(membersOfLatvianParlament);
         System.out.println(100);
@@ -43,6 +59,26 @@ public class HomeWork {
 
         byte numberOfApartmentsInMyHouse = 16;
         System.out.println(numberOfApartmentsInMyHouse);
+
+        byte myFavoriteNumber = 8;
+        System.out.println(myFavoriteNumber);
+
+        byte numberOfMonthsInAYear = 12;
+        System.out.println(numberOfMonthsInAYear);
+
+        byte numberOfDaysInJanuary = 31;
+        System.out.println(numberOfDaysInJanuary);
+
+        byte numberOfFullWeeksInJanuary = 4;
+        System.out.println(numberOfFullWeeksInJanuary);
+
+        byte myAge = 30;
+        System.out.println(myAge);
+
+        byte lowestByteNumber = -128;
+        System.out.println(lowestByteNumber);
+
+
 
 
 
