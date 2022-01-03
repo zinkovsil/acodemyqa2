@@ -50,6 +50,8 @@ public class HomeWork {
         boolean latviaIsACountry = true;
         System.out.println(latviaIsACountry);
 
+//      Exercise nr. 3
+
         double a = 5;
         double b = 2+8;
         double d = 15/3;
@@ -66,12 +68,29 @@ public class HomeWork {
         System.out.println(a%b);
         System.out.println(d%b);
 
+//      Exercise nr. 4
+
+        String myFavoriteFootballTeam = "AJAX";
+        String myFatherName = "Andrej";
+        String myItTeacherName = "Nikita";
+        String myBrotherName = "Alexey";
+        String myLocalGymName = "Myfitness";
+        System.out.println(myFavoriteFootballTeam);
+        System.out.println(myFatherName);
+        System.out.println(myItTeacherName);
+        System.out.println(myBrotherName);
+        System.out.println(myLocalGymName);
+
+//      Exercise nr. 5
+
         String city = "Riga";
         String status = "is";
-        String country = "a";
+        String word = "a";
         String location = "capital";
         String continent = "city";
-        System.out.println(city +" "+ status +" "+ country +" "+ location +" "+ continent);
+        String country = "of Latvia";
+        String population = "with total population six hundred thousand people.";
+        System.out.println(city +" "+ status +" "+ word +" "+ location +" "+ continent +" "+ country +" "+ population);
 
 
 
