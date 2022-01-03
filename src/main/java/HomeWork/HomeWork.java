@@ -38,6 +38,14 @@ public class HomeWork {
         byte currentTemperatureInLatvia = -5;
         System.out.println(currentTemperatureInLatvia);
 
+        byte numberOfStudentsInAcodemyQA2 = 20;
+        System.out.println(numberOfStudentsInAcodemyQA2);
+
+        byte numberOfApartmentsInMyHouse = 16;
+        System.out.println(numberOfApartmentsInMyHouse);
+
+
+
 
         char millitaryPersonalInIceland = '1';
         System.out.println(millitaryPersonalInIceland);
