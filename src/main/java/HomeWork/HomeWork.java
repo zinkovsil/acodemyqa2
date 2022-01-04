@@ -18,10 +18,72 @@ public class HomeWork {
         System.out.println(Integer.MIN_VALUE);
         System.out.println(Integer.MAX_VALUE);
 
+        int peopleLivingInPoverty = 689000000;
+        System.out.println(peopleLivingInPoverty);
+
+        int chinaArmyPersonal = 2185000;
+        System.out.println(chinaArmyPersonal);
+
+        int wsopWinnerPrize = 8000000;
+        System.out.println(wsopWinnerPrize);
+
+        int alexanderOvechkinSalary = 9538462;
+        System.out.println(alexanderOvechkinSalary);
+
+        int latvianDefenceBudget = 758350000;
+        System.out.println(latvianDefenceBudget);
+
+        int TheFirstHumanAppeared = 2000000;
+        System.out.println(TheFirstHumanAppeared);
+
+        int arnisRieksinsWorth = 172000000;
+        System.out.println(arnisRieksinsWorth);
+
+        int mostExpensiveFlatInTheWorld = 200000000;
+        System.out.println(mostExpensiveFlatInTheWorld);
+
+        int michaelJordanNetWorth = 1600000000;
+        System.out.println(michaelJordanNetWorth);
+
+
         long usaDebtAmount = 29481248350000L;
         System.out.println(usaDebtAmount);
         System.out.println(Long.MIN_VALUE);
         System.out.println(Long.MAX_VALUE);
+
+        long totalWorldPopulation =  7874965825L;
+        System.out.println(totalWorldPopulation);
+
+        long totalWorldGDP = 80934771028340L;
+        System.out.println(totalWorldGDP);
+
+        long appleCapitalization = 2986000000000L;
+        System.out.println(appleCapitalization);
+
+        long chinaPopulation = 1411778724L;
+        System.out.println(chinaPopulation);
+
+        long jeffBezosNetWorth = 202000000000L;
+        System.out.println(jeffBezosNetWorth);
+
+        long budgetOfLatvia = 10660000000L;
+        System.out.println(budgetOfLatvia);
+
+        long russiaDefenceBudget = 61700000000L;
+        System.out.println(russiaDefenceBudget);
+
+        long totalWorldDebt = 226000000000L;
+        System.out.println(totalWorldDebt);
+
+        long googleRevenue = 65000000000L;
+        System.out.println(googleRevenue);
+
+
+
+
+
+
+
 
 
         short latvianArmyPersonal = 7400;
@@ -38,8 +100,24 @@ public class HomeWork {
         short RezeknePopulation = 27820;
         System.out.println(RezeknePopulation);
 
-        short MichaelJordanTotalNBAPoints = 32292;
-        System.out.println(MichaelJordanTotalNBAPoints);
+        short michaelJordanTotalNBAPoints = 32292;
+        System.out.println(michaelJordanTotalNBAPoints);
+
+        short numberOfVacanciesOnCVLV = 2963;
+        System.out.println(numberOfVacanciesOnCVLV);
+
+        short zasulauksPopulation = 7358;
+        System.out.println(zasulauksPopulation);
+
+        short distanceBetweenRigaAndMoscow = 842;
+        System.out.println(distanceBetweenRigaAndMoscow);
+
+        short numberOfEmployeesInRigasSatiksme = 3800;
+        System.out.println(numberOfEmployeesInRigasSatiksme);
+
+        short averageNetSalaryInLatviaGross = 1200;
+        System.out.println(averageNetSalaryInLatviaGross);
+
 
 
 
