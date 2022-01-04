@@ -3,10 +3,32 @@ package HomeWork;
 public class HomeWork {
     public static void main(String[] args) {
 
-        double earthWeight = 5.972E24;
+        double earthWeight = 5.972E24D;
         System.out.println(earthWeight);
         System.out.println(Double.MAX_VALUE);
         System.out.println(Double.MIN_VALUE);
+
+        double earthAge = 4.543E9D;
+        System.out.println(earthAge);
+
+        double earthSurfaceGravity = 9.80665D;
+        System.out.println(earthSurfaceGravity);
+
+        double earthSiderialRotationPeriod = 0.99726968D;
+        System.out.println(earthSiderialRotationPeriod);
+
+        double earthEquatorialRotationVelocity = 0.4651D;
+        System.out.println(earthEquatorialRotationVelocity);
+
+        double earthEccentricity = 0.0167086D;
+        System.out.println(earthEccentricity);
+
+        double marsEccentricity = 0.0934D;
+        System.out.println(marsEccentricity);
+
+
+
+
 
         float earthOrbitalPeriod = 365.256363004F;
         System.out.println(earthOrbitalPeriod);
@@ -168,6 +190,30 @@ public class HomeWork {
         System.out.println(firstAlphaBetLetter);
         System.out.println("Character Max Value: "+(Character.MAX_VALUE+0));
         System.out.println("Character Min Value: "+(Character.MIN_VALUE+0));
+
+        char lastAlphabetLetter = 'Z';
+        System.out.println(lastAlphabetLetter);
+
+        char firstLetterOfMyName = 'I';
+        System.out.println(firstLetterOfMyName);
+
+        char numberOfPresidentsInLatvija = '1';
+        System.out.println(numberOfPresidentsInLatvija);
+
+        char myFamileMembers = '4';
+        System.out.println(myFamileMembers);
+
+        char balticStatesCountry = '3';
+        System.out.println(balticStatesCountry);
+
+        char firstLetterOfMySurname = 'Z';
+        System.out.println(firstLetterOfMySurname);
+
+        char firstLetterOfMyDadName = 'A';
+        System.out.println(firstLetterOfMyDadName);
+
+        char myFavoriteLetter = 'P';
+        System.out.println(myFavoriteLetter);
 
         boolean latviaIsACountry = true;
         System.out.println(latviaIsACountry);
