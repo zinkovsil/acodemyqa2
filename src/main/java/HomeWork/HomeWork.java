@@ -2,6 +2,7 @@ package HomeWork;
 
 public class HomeWork {
     public static void main(String[] args) {
+//      Exrcise Nr.1 and Nr.2
 
         double earthWeight = 5.972E24D;
         System.out.println(earthWeight);
@@ -26,14 +27,52 @@ public class HomeWork {
         double marsEccentricity = 0.0934D;
         System.out.println(marsEccentricity);
 
+        double marsWeight = 6.39E23D;
+        System.out.println(marsWeight);
+
+        double veneraWeight = 4.867E24D;
+        System.out.println(veneraWeight);
+
+        double iHaveNoIdea = - 99.9999999D;
+        System.out.println(iHaveNoIdea);
 
 
 
+//      float
 
-        float earthOrbitalPeriod = 365.256363004F;
+        float earthOrbitalPeriod = 365.25F;
         System.out.println(earthOrbitalPeriod);
         System.out.println(Float.MIN_VALUE);
         System.out.println(Float.MAX_VALUE);
+
+        float appleStock = 182.01F;
+        System.out.println(appleStock);
+
+        float highestMountainOnEarth = 8.48F;
+        System.out.println(highestMountainOnEarth);
+
+        float pNumber = 3.14F;
+        System.out.println(pNumber);
+
+        float UsainBoltOlympicRecord = 9.58F;
+        System.out.println(UsainBoltOlympicRecord);
+
+        float LebronJamesHeight = 2.06F;
+        System.out.println(LebronJamesHeight);
+
+        float MichaelJordanAveragePointsPerGame = 30.1F;
+        System.out.println(MichaelJordanAveragePointsPerGame);
+
+        float MichaelJordanHeight = 1.98F;
+        System.out.println(MichaelJordanHeight);
+
+        float xiaomiStock = 18.56F;
+        System.out.println(xiaomiStock);
+
+        float speedOfLightFromSunTillEarth = 1.08F;
+        System.out.println(speedOfLightFromSunTillEarth);
+
+//      int
 
         int earthSurfaceArea = 510065623;
         System.out.println(earthSurfaceArea);
@@ -67,6 +106,7 @@ public class HomeWork {
         int michaelJordanNetWorth = 1600000000;
         System.out.println(michaelJordanNetWorth);
 
+//      long
 
         long usaDebtAmount = 29481248350000L;
         System.out.println(usaDebtAmount);
@@ -100,13 +140,7 @@ public class HomeWork {
         long googleRevenue = 65000000000L;
         System.out.println(googleRevenue);
 
-
-
-
-
-
-
-
+//      short
 
         short latvianArmyPersonal = 7400;
         System.out.println(latvianArmyPersonal);
@@ -140,10 +174,7 @@ public class HomeWork {
         short averageNetSalaryInLatviaGross = 1200;
         System.out.println(averageNetSalaryInLatviaGross);
 
-
-
-
-
+//      byte
 
         byte membersOfLatvianParlament = 100;
         System.out.println(membersOfLatvianParlament);
@@ -220,9 +251,9 @@ public class HomeWork {
 
 //      Exercise nr. 3
 
-        double a = 5;
-        double b = 2+8;
-        double d = 15/3;
+        int a = 5;
+        int b = 2+8;
+        int d = 15/3;
         System.out.println(a+b);
         System.out.println(a+d);
         System.out.println(a-b);
