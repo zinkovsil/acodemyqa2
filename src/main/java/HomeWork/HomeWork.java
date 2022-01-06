@@ -54,17 +54,17 @@ public class HomeWork {
         float pNumber = 3.14F;
         System.out.println(pNumber);
 
-        float UsainBoltOlympicRecord = 9.58F;
-        System.out.println(UsainBoltOlympicRecord);
+        float usainBoltOlympicRecord = 9.58F;
+        System.out.println(usainBoltOlympicRecord);
 
-        float LebronJamesHeight = 2.06F;
-        System.out.println(LebronJamesHeight);
+        float lebronJamesHeight = 2.06F;
+        System.out.println(lebronJamesHeight);
 
-        float MichaelJordanAveragePointsPerGame = 30.1F;
-        System.out.println(MichaelJordanAveragePointsPerGame);
+        float michaelJordanAveragePointsPerGame = 30.1F;
+        System.out.println(michaelJordanAveragePointsPerGame);
 
-        float MichaelJordanHeight = 1.98F;
-        System.out.println(MichaelJordanHeight);
+        float michaelJordanHeight = 1.98F;
+        System.out.println(michaelJordanHeight);
 
         float xiaomiStock = 18.56F;
         System.out.println(xiaomiStock);
@@ -131,14 +131,14 @@ public class HomeWork {
         long budgetOfLatvia = 10660000000L;
         System.out.println(budgetOfLatvia);
 
-        long russiaDefenceBudget = 61700000000L;
-        System.out.println(russiaDefenceBudget);
+        long russiaDefenceBudgetInDollars = 61700000000L;
+        System.out.println(russiaDefenceBudgetInDollars);
 
-        long totalWorldDebt = 226000000000L;
-        System.out.println(totalWorldDebt);
+        long totalWorldDebtInMillionDollars = 226000000000L;
+        System.out.println(totalWorldDebtInMillionDollars);
 
-        long googleRevenue = 65000000000L;
-        System.out.println(googleRevenue);
+        long googleRevenueMilDol = 65000000000L;
+        System.out.println(googleRevenueMilDol);
 
 //      short
 
@@ -150,11 +150,11 @@ public class HomeWork {
         short lowestShortNumber = - 32768;
         System.out.println(lowestShortNumber);
 
-        short VaticanPopulation = 836;
-        System.out.println(VaticanPopulation);
+        short vaticanPopulation = 836;
+        System.out.println(vaticanPopulation);
 
-        short RezeknePopulation = 27820;
-        System.out.println(RezeknePopulation);
+        short rezeknePopulation = 27820;
+        System.out.println(rezeknePopulation);
 
         short michaelJordanTotalNBAPoints = 32292;
         System.out.println(michaelJordanTotalNBAPoints);
@@ -211,7 +211,7 @@ public class HomeWork {
 
 
 
-
+//      char
 
 
         char millitaryPersonalInIceland = '1';
@@ -234,8 +234,8 @@ public class HomeWork {
         char myFamileMembers = '4';
         System.out.println(myFamileMembers);
 
-        char balticStatesCountry = '3';
-        System.out.println(balticStatesCountry);
+        char myMomNameFirstLetter = 'G';
+        System.out.println(myMomNameFirstLetter);
 
         char firstLetterOfMySurname = 'Z';
         System.out.println(firstLetterOfMySurname);
@@ -246,8 +246,39 @@ public class HomeWork {
         char myFavoriteLetter = 'P';
         System.out.println(myFavoriteLetter);
 
+
+
+//      boolean
+
         boolean latviaIsACountry = true;
         System.out.println(latviaIsACountry);
+
+        boolean myGenderIsMale = true;
+        System.out.println(myGenderIsMale);
+
+        boolean myNameIsIvan = false;
+        System.out.println(myNameIsIvan);
+
+        boolean myNameIsIlja = true;
+        System.out.println(myNameIsIlja);
+
+        boolean latviaLocatedInAsia = false;
+        System.out.println(latviaLocatedInAsia);
+
+        boolean latviaLocatedInEurope = true;
+        System.out.println(latviaLocatedInEurope);
+
+        boolean iLikeApples = true;
+        System.out.println(iLikeApples);
+
+        boolean myFavoriteHockeyPlayerIsOvechkin = true;
+        System.out.println(myFavoriteHockeyPlayerIsOvechkin);
+
+        boolean iCanPlayChess = false;
+        System.out.println(iCanPlayChess);
+
+        boolean myMobileModelIsApple = false;
+        System.out.println(myMobileModelIsApple);
 
 //      Exercise nr. 3
 
