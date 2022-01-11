@@ -33,9 +33,8 @@ public class HomeWork {
         double veneraWeight = 4.867E24D;
         System.out.println(veneraWeight);
 
-        double iHaveNoIdea = - 99.9999999D;
+        double iHaveNoIdea = -99.9999999D;
         System.out.println(iHaveNoIdea);
-
 
 
 //      float
@@ -113,7 +112,7 @@ public class HomeWork {
         System.out.println(Long.MIN_VALUE);
         System.out.println(Long.MAX_VALUE);
 
-        long totalWorldPopulation =  7874965825L;
+        long totalWorldPopulation = 7874965825L;
         System.out.println(totalWorldPopulation);
 
         long totalWorldGDP = 80934771028340L;
@@ -147,7 +146,7 @@ public class HomeWork {
         System.out.println(Short.MIN_VALUE);
         System.out.println(Short.MAX_VALUE);
 
-        short lowestShortNumber = - 32768;
+        short lowestShortNumber = -32768;
         System.out.println(lowestShortNumber);
 
         short vaticanPopulation = 836;
@@ -210,7 +209,6 @@ public class HomeWork {
         System.out.println(lowestByteNumber);
 
 
-
 //      char
 
 
@@ -219,8 +217,8 @@ public class HomeWork {
 
         char firstAlphaBetLetter = 'A';
         System.out.println(firstAlphaBetLetter);
-        System.out.println("Character Max Value: "+(Character.MAX_VALUE+0));
-        System.out.println("Character Min Value: "+(Character.MIN_VALUE+0));
+        System.out.println("Character Max Value: " + (Character.MAX_VALUE + 0));
+        System.out.println("Character Min Value: " + (Character.MIN_VALUE + 0));
 
         char lastAlphabetLetter = 'Z';
         System.out.println(lastAlphabetLetter);
@@ -245,7 +243,6 @@ public class HomeWork {
 
         char myFavoriteLetter = 'P';
         System.out.println(myFavoriteLetter);
-
 
 
 //      boolean
@@ -283,20 +280,20 @@ public class HomeWork {
 //      Exercise nr. 3
 
         int a = 5;
-        int b = 2+8;
-        int d = 15/3;
-        System.out.println(a+b);
-        System.out.println(a+d);
-        System.out.println(a-b);
-        System.out.println(b-d);
-        System.out.println(a*b);
-        System.out.println(b*d);
-        System.out.println(a/d);
-        System.out.println(b/d);
-        System.out.println(d/b);
-        System.out.println((a+b)/d);
-        System.out.println(a%b);
-        System.out.println(d%b);
+        int b = 2 + 8;
+        int d = 15 / 3;
+        System.out.println(a + b);
+        System.out.println(a + d);
+        System.out.println(a - b);
+        System.out.println(b - d);
+        System.out.println(a * b);
+        System.out.println(b * d);
+        System.out.println(a / d);
+        System.out.println(b / d);
+        System.out.println(d / b);
+        System.out.println((a + b) / d);
+        System.out.println(a % b);
+        System.out.println(d % b);
 
 //      Exercise nr. 4
 
@@ -320,8 +317,7 @@ public class HomeWork {
         String continent = "city";
         String country = "of Latvia";
         String population = "with total population six hundred thousand people.";
-        System.out.println(city +" "+ status +" "+ word +" "+ location +" "+ continent +" "+ country +" "+ population);
-
+        System.out.println(city + " " + status + " " + word + " " + location + " " + continent + " " + country + " " + population);
 
 
     }
