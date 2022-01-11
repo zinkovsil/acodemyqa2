@@ -250,35 +250,35 @@ public class HomeWork {
 
 //      boolean
 
-        boolean latviaIsACountry = true;
-        System.out.println(latviaIsACountry);
+        boolean isFemale = false;
+        System.out.println(isFemale);
 
-        boolean myGenderIsMale = true;
-        System.out.println(myGenderIsMale);
+        boolean isMan = true;
+        System.out.println(isMan);
 
-        boolean myNameIsIvan = false;
-        System.out.println(myNameIsIvan);
+        boolean haveTwoLegs = true;
+        System.out.println(haveTwoLegs);
 
-        boolean myNameIsIlja = true;
-        System.out.println(myNameIsIlja);
+        boolean isHuman = true;
+        System.out.println(isHuman);
 
-        boolean latviaLocatedInAsia = false;
-        System.out.println(latviaLocatedInAsia);
+        boolean haveBrother = true;
+        System.out.println(haveBrother);
 
-        boolean latviaLocatedInEurope = true;
-        System.out.println(latviaLocatedInEurope);
+        boolean isWorkingRightNow = true;
+        System.out.println(isWorkingRightNow);
 
-        boolean iLikeApples = true;
-        System.out.println(iLikeApples);
+        boolean haveMobilePhone = true;
+        System.out.println(haveMobilePhone);
 
-        boolean myFavoriteHockeyPlayerIsOvechkin = true;
-        System.out.println(myFavoriteHockeyPlayerIsOvechkin);
+        boolean haveAPc = true;
+        System.out.println(haveAPc);
 
-        boolean iCanPlayChess = false;
-        System.out.println(iCanPlayChess);
+        boolean isAcodemyStudent = true;
+        System.out.println(isAcodemyStudent);
 
-        boolean myMobileModelIsApple = false;
-        System.out.println(myMobileModelIsApple);
+        boolean haveBMWCar = false;
+        System.out.println(haveBMWCar);
 
 //      Exercise nr. 3
 
